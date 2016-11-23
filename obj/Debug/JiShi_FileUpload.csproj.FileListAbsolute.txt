@@ -1,0 +1,13 @@
+E:\WebMVC\JiShi_FileUpload\obj\Debug\JiShi_FileUpload.FileMonitor.resources
+E:\WebMVC\JiShi_FileUpload\obj\Debug\JiShi_FileUpload.Properties.Resources.resources
+E:\WebMVC\JiShi_FileUpload\obj\Debug\JiShi_FileUpload.csproj.GenerateResource.Cache
+E:\WebMVC\JiShi_FileUpload\bin\Debug\JiShi_FileUpload.exe
+E:\WebMVC\JiShi_FileUpload\bin\Debug\JiShi_FileUpload.pdb
+E:\WebMVC\JiShi_FileUpload\obj\Debug\JiShi_FileUpload.exe
+E:\WebMVC\JiShi_FileUpload\obj\Debug\JiShi_FileUpload.pdb
+E:\WebMVC\JiShi_FileUpload\bin\Debug\JiShi_FileUpload.exe.config
+E:\WebMVC\JiShi_FileUpload\bin\Debug\MessagingToolkit.Barcode.dll
+E:\WebMVC\JiShi_FileUpload\bin\Debug\O2S.Components.PDFRender4NET.dll
+E:\WebMVC\JiShi_FileUpload\obj\Debug\JiShi_FileUpload.csprojResolveAssemblyReference.cache
+E:\WebMVC\JiShi_FileUpload\bin\Debug\PDFLibNet.dll
+E:\WebMVC\JiShi_FileUpload\obj\Debug\JiShi_FileUpload.Login.resources
