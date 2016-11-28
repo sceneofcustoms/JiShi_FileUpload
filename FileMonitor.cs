@@ -172,9 +172,9 @@ namespace JiShi_FileUpload
                                     }
                                 }
                             }
-                            sql = @"insert into list_attachment (ID,FILEPATH,FILENAME,FILESIZE,ORDERCODE,CREATETIME,CREATEUSERID,CREATENAME) 
-                                  VALUES (LIST_ATTACHMENT_ID.NEXTVAL,'{0}','{1}','{2}','{3}',sysdate,'{4}','{5}')";
-                            sql = string.Format(sql, @"/" + direc_upload + @"/" + guid + ".pdf", guid + ".pdf", file.Length, barcode, this.label1.Text, this.label2.Text);
+                            sql = @"insert into list_attachment (ID,FILEPATH,FILENAME,FILESIZE,ORDERCODE,CREATETIME,CREATEUSERID) 
+                                  VALUES (LIST_ATTACHMENT_ID.NEXTVAL,'{0}','{1}','{2}','{3}',sysdate,'{4}')";
+                            sql = string.Format(sql, @"/" + direc_upload + @"/" + guid + ".pdf", guid + ".pdf", file.Length, barcode, this.label1.Text);
                             com = new OracleCommand(sql, conn);
                             com.ExecuteNonQuery();
                             if (!string.IsNullOrEmpty(barcode))
