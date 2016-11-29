@@ -134,6 +134,7 @@ namespace JiShi_FileUpload
                         catch (Exception ex)
                         {
                             barcode = string.Empty;
+                            working = false;
                         }
                         //上传文件
                         ftp.CreateDirectory(direc_upload, true);
